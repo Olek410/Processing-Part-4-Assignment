@@ -4,7 +4,7 @@ int pad1x = 20;
 int pad1y = 120;
 float slow;
 float y;
-float easing = 0.6;
+float easing = 0.15;
 int rad = 20;        
 float xpos, ypos;      
 float xspeed = 1.5;  
